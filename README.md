@@ -1,6 +1,6 @@
 # Login Seguro
 
-Sistema de cadastro, login e controle de acesso desenvolvido com Java 21, Spring Boot, Spring Security, Thymeleaf e MongoDB Atlas. O projeto foi organizado para facilitar a adaptação a diferentes temas de Projeto Final de Curso (PFC).
+Sistema de cadastro, login e controle de acesso desenvolvido com Java 21, Spring Boot, Spring Security, Thymeleaf e MongoDB Atlas. O projeto foi organizado para facilitar a adaptação a diferentes temas de Projeto Final de Curso.
 
 ## Funcionalidades
 
